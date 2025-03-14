@@ -1,0 +1,12 @@
+# REFERENCIAS.BIPM
+
+[1]   	I. D. Apostolopoulos, N. I. Papandrianos, A. Feleki, S. Moustakidis, e E. I. Papageorgiou, “Deep learning-enhanced nuclear medicine SPECT imaging applied to cardiac studies”, EJNMMI Phys., vol. 10, no 1, p. 6, jan. 2023, doi: 10.1186/s40658-022-00522-7.
+[2]   	W. D. P. Pereira, L. Carvalheira, J. M. Lopes, P. F. D. Aguiar, R. M. Moreira, e E. C. D. Oliveira, “Data reconciliation connected to guard bands to set specification limits related to risk assessment for radiopharmaceutical activity”, Heliyon, vol. 9, no 12, p. e22992, dez. 2023, doi: 10.1016/j.heliyon.2023.e22992.
+[3]   	E. da Silva, L. R. Santos, L. P. F. Assemany, e M. da P. A. Potiens, “Evaluation of the performance of radioprotection ionization chambers used in radiometric survey of radiology clinical systems”, Braz. J. Radiat. Sci., vol. 8, no 1A (Suppl.), Art. no 1A (Suppl.), jun. 2020, doi: 10.15392/bjrs.v8i1A.1076.
+[4]   	O. E. Belhaj et al., “Ionizing radiation metrology at the service of health: quality control of radiopharmaceutical dose calibrators in nuclear medicine unit -accurarcy, reproducibility and linearity tests-”, E3S Web Conf., vol. 351, p. 01095, 2022, doi: 10.1051/e3sconf/202235101095.
+[5]   	O. E. Belhaj et al., “Ionizing radiation metrology at the service of health: quality control of radiopharmaceutical dose calibrators in nuclear medicine unit -accurarcy, reproducibility and linearity tests-”, E3S Web Conf., vol. 351, p. 01095, 2022, doi: 10.1051/e3sconf/202235101095.
+[6]   	D. A. Conceição, J. U. Delgado, e O. L. T. Filho, “Characterization of a spectrometric system with NaI(Tl) for ensuring traceability of radiopharmaceuticals”.
+[7]   	M. L. de Oliveira, L. C. O. Reis, R. L. C. Leão, M. C. F. Fragoso, e F. R. A. Lima, “Solid standards for positron emitters”, Radiat. Phys. Chem., vol. 167, p. 108327, fev. 2020, doi: 10.1016/j.radphyschem.2019.05.017.
+[8]   	Vocabulário internacional de metrologia: conceitos fundamentais e termos associados: VIM 2012. Inmetro, 2021.
+[9]   	L. Tauhata, Radioproteção e dosimetria: fundamentos. Instituto de Radioproteção e Dosimetria, 2014.
+[10] 	M. Santana Carvalho, B. Grando Moreira, e S. Fischer Beckert, “Desenvolvimento de um software para calibração de trenas utilizando visão computacional”, em Anais do XI Computer on the Beach - COTB ’20, Balneário Camboriú: Universidade do Vale do Itajaí, set. 2020, p. 050–051. doi: 10.14210/cotb.v11n1.p050-051.
